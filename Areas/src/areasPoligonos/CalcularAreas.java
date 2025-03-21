@@ -19,5 +19,8 @@ public class CalcularAreas {
 		
 		//Área del cuadrado
 	}
+	    //Declaramos variable lado y asignamos valor
+	
+	     int lado=5;
 
 }
