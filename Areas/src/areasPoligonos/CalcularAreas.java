@@ -15,6 +15,9 @@ public class CalcularAreas {
 		//Declaramos la variable área y la calculamos con la formula area=(base*altura)/2		
 		
 		int area=(base*altura)/2;
+		
+		
+		//Área del cuadrado
 	}
 
 }
