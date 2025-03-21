@@ -7,10 +7,14 @@ public class CalcularAreas {
 		 
 		//Empezaremos por el área de un triángulo, declarando las variables base y altura
 		int base, altura;
+		
 		//Asignamos a las variables base y altura sus valores.
 		base=7;
 		altura=5;
 		
+		//Declaramos la variable área y la calculamos con la formula area=(base*altura)/2		
+		
+		int area=(base*altura)/2;
 	}
 
 }
