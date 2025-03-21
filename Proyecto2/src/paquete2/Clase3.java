@@ -4,7 +4,13 @@ public class Clase3 {
 
 	public static void main(String[] args) {
 		// Progrma para calcular el área de un triángulo 
-
+		
+		//Declaramos e iniciamos las variables base y altuta
+		int base=2;
+		int altura=2;
+		
+		
+		
 	}
 
 }
