@@ -7,6 +7,9 @@ public class CalcularAreas {
 		 
 		//Empezaremos por el área de un triángulo, declarando las variables base y altura
 		int base, altura;
+		//Asignamos a las variables base y altura sus valores.
+		base=7;
+		altura=5;
 		
 	}
 
