@@ -9,7 +9,9 @@ public class Clase3 {
 		int base=2;
 		int altura=2;
 		
+		//Declaramos y calculamos eñ área A=(base*altura)/2
 		
+		int area=(base*altura)/2;
 		
 	}
 
